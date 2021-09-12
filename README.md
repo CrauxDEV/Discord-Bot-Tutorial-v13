@@ -1,14 +1,42 @@
-# Discord v13 Bot Tutorial 
+# Tutorial no 1
+In this Tutorial we will make basic codes for bot and we will host Bot 24hr for free!
 
-Welcome to this Tutorial Page!🎊🎊 Here is a tutorial for making discord Bot using discord.js v13.
-In this Tutorial we have made Branches. Please check Branches for tutorials
+# Requirements 
+```
+1. Node v16
+2. Npm v7
+3. A code editor / online code editor (replit, glitch)
+4. Terminal
+```
+# Checking Things/Stuffs
+Before starting the project we have to first check our versions.
+<br />
+Let's check node version.(Remember that discord.js v13 uses node v16 and will not work if you have node v12 or lower than 16)
+<br  />
 
-# Support
-For any queries
-Contact us ;
+# Checking Node version
+If you are using private code editor like vscode, then follow the step;
+```
+1. Open your terminal 
+2. Type "node -v" (remember you must have installed node v16)
+```
+If it shows `node v16.something`, then you have your node version updated to node v16!
 <br />
-👉[[Instagram]](https://instagram.com/ig_crauxop)
+If not then follow the steps ;
+```
+1. Delete your previously installed node(If you haven't installed before then skip)
+2. Open Chrome and type 'node.js'.
+3. Go to the official site of node.js and install the latest version
+```
+
+Now if you are using online code editor like replit.com, then follow the steps to check version;
+
+```
+1. Open shell 
+2. Type node-v
+```
+If it shows node v12, then your repl not updated to node v16.
 <br />
-👉[[Discord 1]](https://dsc.gg/hornetop)
-<br />
-👉[[Discord 2]](https://dsc.ink/galaxystudio)
+So for updating the things in replit.com , I have made the video on youtube! You can also check out the guide;
+<br /> 
+👉 Guide :- https://github.com/CrauxDEV/Replit-upgradation-
